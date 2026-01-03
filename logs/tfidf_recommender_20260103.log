@@ -7,3 +7,12 @@
 [ 2026-01-03 17:16:58 ] 84 tfidf_recommender - INFO - Similarity matrix computed with shape: (9600, 9600)
 [ 2026-01-03 17:16:58 ] 100 tfidf_recommender - INFO - Getting recommendations for product_index=0, top_n=5
 [ 2026-01-03 17:16:58 ] 119 tfidf_recommender - INFO - Successfully generated 5 recommendations
+[ 2026-01-03 17:26:07 ] 33 tfidf_recommender - INFO - Initializing TFIDFRecommender with max_features=5000, ngram_range=(1, 2)
+[ 2026-01-03 17:26:07 ] 188 tfidf_recommender - INFO - Loading model from /Users/abdulmateen/rec_sys/models/recommender_model.pkl
+[ 2026-01-03 17:26:07 ] 202 tfidf_recommender - INFO - Model loaded successfully from /Users/abdulmateen/rec_sys/models/recommender_model.pkl
+[ 2026-01-03 17:26:07 ] 203 tfidf_recommender - INFO - Loaded dataframe shape: (9600, 9)
+[ 2026-01-03 17:26:07 ] 204 tfidf_recommender - INFO - TF-IDF matrix shape: (9600, 5000)
+[ 2026-01-03 17:26:07 ] 81 tfidf_recommender - INFO - Computing cosine similarity matrix
+[ 2026-01-03 17:26:08 ] 84 tfidf_recommender - INFO - Similarity matrix computed with shape: (9600, 9600)
+[ 2026-01-03 17:26:08 ] 100 tfidf_recommender - INFO - Getting recommendations for product_index=0, top_n=5
+[ 2026-01-03 17:26:08 ] 119 tfidf_recommender - INFO - Successfully generated 5 recommendations

@@ -17,12 +17,12 @@ logger = setup_logger("app", config.LOG_DIR)
 
 # Page configuration
 st.set_page_config(
-    page_title="A baseline item-to-item Product Recommender System",
+    page_title="A simple content-based Recommender System",
     layout="wide"
 )
 
 # Title
-st.title(" A baseline item-to-item Product Recommender System")
+st.title(" A simple content-based Recommender System")
 st.markdown("---")
 
 # Configuration

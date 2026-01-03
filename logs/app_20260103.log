@@ -8,3 +8,13 @@
 [ 2026-01-03 17:16:58 ] 195 app - INFO - Auto-generating recommendations for: Redmi 10 Power (Power Black, 8GB RAM, 128GB Storage)
 [ 2026-01-03 17:16:58 ] 173 app - INFO - Generated 5 recommendations for Redmi 10 Power (Power Black, 8GB RAM, 128GB Storage)
 [ 2026-01-03 17:16:58 ] 245 app - INFO - Displaying 5 formatted recommendations
+[ 2026-01-03 17:26:07 ] 32 app - INFO - Initializing app with DATA_FILE: /Users/abdulmateen/rec_sys/data/processed.csv, MODEL_FILE: /Users/abdulmateen/rec_sys/models/recommender_model.pkl
+[ 2026-01-03 17:26:07 ] 42 app - INFO - Initialized session state
+[ 2026-01-03 17:26:07 ] 81 app - INFO - Loading recommender system into session state
+[ 2026-01-03 17:26:07 ] 48 app - INFO - Starting to load or build recommender system
+[ 2026-01-03 17:26:07 ] 52 app - INFO - Model file exists at /Users/abdulmateen/rec_sys/models/recommender_model.pkl, attempting to load
+[ 2026-01-03 17:26:08 ] 58 app - INFO - Successfully loaded model. DataFrame shape: (9600, 9)
+[ 2026-01-03 17:26:08 ] 87 app - INFO - Recommender system loaded successfully into session state
+[ 2026-01-03 17:26:08 ] 195 app - INFO - Auto-generating recommendations for: Redmi 10 Power (Power Black, 8GB RAM, 128GB Storage)
+[ 2026-01-03 17:26:08 ] 173 app - INFO - Generated 5 recommendations for Redmi 10 Power (Power Black, 8GB RAM, 128GB Storage)
+[ 2026-01-03 17:26:08 ] 245 app - INFO - Displaying 5 formatted recommendations

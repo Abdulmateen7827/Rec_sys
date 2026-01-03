@@ -2,3 +2,7 @@
 [ 2026-01-03 17:16:57 ] 112 utils - INFO - Model file exists, loading from /Users/abdulmateen/rec_sys/models/recommender_model.pkl
 [ 2026-01-03 17:16:57 ] 118 utils - INFO - Recomputing similarity matrix
 [ 2026-01-03 17:16:58 ] 121 utils - INFO - Recommender system loaded successfully
+[ 2026-01-03 17:26:07 ] 109 utils - INFO - Loading recommender system. Model path: /Users/abdulmateen/rec_sys/models/recommender_model.pkl, Data file: /Users/abdulmateen/rec_sys/data/processed.csv
+[ 2026-01-03 17:26:07 ] 112 utils - INFO - Model file exists, loading from /Users/abdulmateen/rec_sys/models/recommender_model.pkl
+[ 2026-01-03 17:26:07 ] 118 utils - INFO - Recomputing similarity matrix
+[ 2026-01-03 17:26:08 ] 121 utils - INFO - Recommender system loaded successfully
