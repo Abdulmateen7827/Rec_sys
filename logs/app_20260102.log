@@ -1,0 +1,97 @@
+[ 2026-01-02 22:47:29 ] 33 app - INFO - Initializing app with DATA_FILE: /Users/abdulmateen/rec_sys/data/processed.csv, MODEL_FILE: /Users/abdulmateen/rec_sys/models/recommender_model.pkl
+[ 2026-01-02 22:47:29 ] 40 app - INFO - Initialized session state
+[ 2026-01-02 22:47:29 ] 79 app - INFO - Loading recommender system into session state
+[ 2026-01-02 22:47:29 ] 85 app - INFO - Recommender system loaded successfully into session state
+[ 2026-01-02 22:47:45 ] 33 app - INFO - Initializing app with DATA_FILE: /Users/abdulmateen/rec_sys/data/processed.csv, MODEL_FILE: /Users/abdulmateen/rec_sys/models/recommender_model.pkl
+[ 2026-01-02 22:47:45 ] 117 app - INFO - User requested recommendations for product: Redmi 10 Power (Power Black, 8GB RAM, 128GB Storage), top_n: 5
+[ 2026-01-02 22:47:45 ] 128 app - INFO - Generated 5 recommendations
+[ 2026-01-02 22:47:45 ] 166 app - INFO - Displaying 5 formatted recommendations
+[ 2026-01-02 22:49:05 ] 33 app - INFO - Initializing app with DATA_FILE: /Users/abdulmateen/rec_sys/data/processed.csv, MODEL_FILE: /Users/abdulmateen/rec_sys/models/recommender_model.pkl
+[ 2026-01-02 22:49:05 ] 117 app - INFO - User requested recommendations for product: Redmi 10 Power (Power Black, 8GB RAM, 128GB Storage), top_n: 5
+[ 2026-01-02 22:49:05 ] 128 app - INFO - Generated 5 recommendations
+[ 2026-01-02 22:49:05 ] 166 app - INFO - Displaying 5 formatted recommendations
+[ 2026-01-02 22:49:17 ] 33 app - INFO - Initializing app with DATA_FILE: /Users/abdulmateen/rec_sys/data/processed.csv, MODEL_FILE: /Users/abdulmateen/rec_sys/models/recommender_model.pkl
+[ 2026-01-02 22:49:17 ] 166 app - INFO - Displaying 5 formatted recommendations
+[ 2026-01-02 22:49:26 ] 33 app - INFO - Initializing app with DATA_FILE: /Users/abdulmateen/rec_sys/data/processed.csv, MODEL_FILE: /Users/abdulmateen/rec_sys/models/recommender_model.pkl
+[ 2026-01-02 22:49:26 ] 117 app - INFO - User requested recommendations for product: Samsung Galaxy M33 5G (Mystique Green, 6GB, 128GB Storage) | 6000mAh Battery | Upto 12GB RAM with RAM Plus | Travel Adapte..., top_n: 5
+[ 2026-01-02 22:49:26 ] 128 app - INFO - Generated 5 recommendations
+[ 2026-01-02 22:49:26 ] 166 app - INFO - Displaying 5 formatted recommendations
+[ 2026-01-02 22:49:47 ] 33 app - INFO - Initializing app with DATA_FILE: /Users/abdulmateen/rec_sys/data/processed.csv, MODEL_FILE: /Users/abdulmateen/rec_sys/models/recommender_model.pkl
+[ 2026-01-02 22:49:47 ] 166 app - INFO - Displaying 5 formatted recommendations
+[ 2026-01-02 22:49:52 ] 33 app - INFO - Initializing app with DATA_FILE: /Users/abdulmateen/rec_sys/data/processed.csv, MODEL_FILE: /Users/abdulmateen/rec_sys/models/recommender_model.pkl
+[ 2026-01-02 22:49:52 ] 117 app - INFO - User requested recommendations for product: Fire-Boltt Invincible Plus 1.43" AMOLED Display Smartwatch with Bluetooth Calling, TWS Connection, 300+ Sports Modes, 110 ..., top_n: 5
+[ 2026-01-02 22:49:52 ] 128 app - INFO - Generated 5 recommendations
+[ 2026-01-02 22:49:52 ] 166 app - INFO - Displaying 5 formatted recommendations
+[ 2026-01-02 22:55:47 ] 33 app - INFO - Initializing app with DATA_FILE: /Users/abdulmateen/rec_sys/data/processed.csv, MODEL_FILE: /Users/abdulmateen/rec_sys/models/recommender_model.pkl
+[ 2026-01-02 22:57:45 ] 33 app - INFO - Initializing app with DATA_FILE: /Users/abdulmateen/rec_sys/data/processed.csv, MODEL_FILE: /Users/abdulmateen/rec_sys/models/recommender_model.pkl
+[ 2026-01-02 22:57:45 ] 43 app - INFO - Initialized session state
+[ 2026-01-02 22:57:45 ] 82 app - INFO - Loading recommender system into session state
+[ 2026-01-02 22:57:45 ] 88 app - INFO - Recommender system loaded successfully into session state
+[ 2026-01-02 22:57:45 ] 196 app - INFO - Auto-generating recommendations for: Redmi 10 Power (Power Black, 8GB RAM, 128GB Storage)
+[ 2026-01-02 22:57:45 ] 174 app - INFO - Generated 5 recommendations for Redmi 10 Power (Power Black, 8GB RAM, 128GB Storage)
+[ 2026-01-02 22:57:45 ] 246 app - INFO - Displaying 5 formatted recommendations
+[ 2026-01-02 22:58:06 ] 33 app - INFO - Initializing app with DATA_FILE: /Users/abdulmateen/rec_sys/data/processed.csv, MODEL_FILE: /Users/abdulmateen/rec_sys/models/recommender_model.pkl
+[ 2026-01-02 22:58:06 ] 246 app - INFO - Displaying 5 formatted recommendations
+[ 2026-01-02 22:58:06 ] 273 app - INFO - User clicked to explore: OnePlus 11 5G (Titan Black, 8GB RAM, 128GB Storage)
+[ 2026-01-02 22:58:06 ] 33 app - INFO - Initializing app with DATA_FILE: /Users/abdulmateen/rec_sys/data/processed.csv, MODEL_FILE: /Users/abdulmateen/rec_sys/models/recommender_model.pkl
+[ 2026-01-02 22:58:06 ] 116 app - INFO - Product clicked from recommendations: OnePlus 11 5G (Titan Black, 8GB RAM, 128GB Storage)
+[ 2026-01-02 22:58:06 ] 196 app - INFO - Auto-generating recommendations for: OnePlus 11 5G (Titan Black, 8GB RAM, 128GB Storage)
+[ 2026-01-02 22:58:06 ] 174 app - INFO - Generated 5 recommendations for OnePlus 11 5G (Titan Black, 8GB RAM, 128GB Storage)
+[ 2026-01-02 22:58:06 ] 246 app - INFO - Displaying 5 formatted recommendations
+[ 2026-01-02 22:58:15 ] 33 app - INFO - Initializing app with DATA_FILE: /Users/abdulmateen/rec_sys/data/processed.csv, MODEL_FILE: /Users/abdulmateen/rec_sys/models/recommender_model.pkl
+[ 2026-01-02 22:58:15 ] 246 app - INFO - Displaying 5 formatted recommendations
+[ 2026-01-02 22:58:16 ] 273 app - INFO - User clicked to explore: OnePlus 10R 5G (Sierra Black, 8GB RAM, 128GB Storage, 80W SuperVOOC)
+[ 2026-01-02 22:58:16 ] 33 app - INFO - Initializing app with DATA_FILE: /Users/abdulmateen/rec_sys/data/processed.csv, MODEL_FILE: /Users/abdulmateen/rec_sys/models/recommender_model.pkl
+[ 2026-01-02 22:58:16 ] 116 app - INFO - Product clicked from recommendations: OnePlus 10R 5G (Sierra Black, 8GB RAM, 128GB Storage, 80W SuperVOOC)
+[ 2026-01-02 22:58:16 ] 196 app - INFO - Auto-generating recommendations for: OnePlus 10R 5G (Sierra Black, 8GB RAM, 128GB Storage, 80W SuperVOOC)
+[ 2026-01-02 22:58:16 ] 174 app - INFO - Generated 5 recommendations for OnePlus 10R 5G (Sierra Black, 8GB RAM, 128GB Storage, 80W SuperVOOC)
+[ 2026-01-02 22:58:16 ] 246 app - INFO - Displaying 5 formatted recommendations
+[ 2026-01-02 22:58:26 ] 33 app - INFO - Initializing app with DATA_FILE: /Users/abdulmateen/rec_sys/data/processed.csv, MODEL_FILE: /Users/abdulmateen/rec_sys/models/recommender_model.pkl
+[ 2026-01-02 22:58:26 ] 246 app - INFO - Displaying 5 formatted recommendations
+[ 2026-01-02 22:58:26 ] 273 app - INFO - User clicked to explore: OnePlus 10R 5G (Forest Green, 12GB RAM, 256GB Storage, 80W SuperVOOC)
+[ 2026-01-02 22:58:26 ] 33 app - INFO - Initializing app with DATA_FILE: /Users/abdulmateen/rec_sys/data/processed.csv, MODEL_FILE: /Users/abdulmateen/rec_sys/models/recommender_model.pkl
+[ 2026-01-02 22:58:26 ] 116 app - INFO - Product clicked from recommendations: OnePlus 10R 5G (Forest Green, 12GB RAM, 256GB Storage, 80W SuperVOOC)
+[ 2026-01-02 22:58:26 ] 196 app - INFO - Auto-generating recommendations for: OnePlus 10R 5G (Forest Green, 12GB RAM, 256GB Storage, 80W SuperVOOC)
+[ 2026-01-02 22:58:26 ] 174 app - INFO - Generated 5 recommendations for OnePlus 10R 5G (Forest Green, 12GB RAM, 256GB Storage, 80W SuperVOOC)
+[ 2026-01-02 22:58:26 ] 246 app - INFO - Displaying 5 formatted recommendations
+[ 2026-01-02 22:58:36 ] 33 app - INFO - Initializing app with DATA_FILE: /Users/abdulmateen/rec_sys/data/processed.csv, MODEL_FILE: /Users/abdulmateen/rec_sys/models/recommender_model.pkl
+[ 2026-01-02 22:58:36 ] 202 app - INFO - User manually refreshed recommendations for: OnePlus 10R 5G (Forest Green, 12GB RAM, 256GB Storage, 80W SuperVOOC)
+[ 2026-01-02 22:58:36 ] 174 app - INFO - Generated 5 recommendations for OnePlus 10R 5G (Forest Green, 12GB RAM, 256GB Storage, 80W SuperVOOC)
+[ 2026-01-02 22:58:36 ] 246 app - INFO - Displaying 5 formatted recommendations
+[ 2026-01-02 22:58:42 ] 33 app - INFO - Initializing app with DATA_FILE: /Users/abdulmateen/rec_sys/data/processed.csv, MODEL_FILE: /Users/abdulmateen/rec_sys/models/recommender_model.pkl
+[ 2026-01-02 22:58:43 ] 202 app - INFO - User manually refreshed recommendations for: OnePlus 10R 5G (Forest Green, 12GB RAM, 256GB Storage, 80W SuperVOOC)
+[ 2026-01-02 22:58:43 ] 174 app - INFO - Generated 5 recommendations for OnePlus 10R 5G (Forest Green, 12GB RAM, 256GB Storage, 80W SuperVOOC)
+[ 2026-01-02 22:58:43 ] 246 app - INFO - Displaying 5 formatted recommendations
+[ 2026-01-02 22:58:50 ] 33 app - INFO - Initializing app with DATA_FILE: /Users/abdulmateen/rec_sys/data/processed.csv, MODEL_FILE: /Users/abdulmateen/rec_sys/models/recommender_model.pkl
+[ 2026-01-02 22:58:50 ] 246 app - INFO - Displaying 5 formatted recommendations
+[ 2026-01-02 22:58:58 ] 33 app - INFO - Initializing app with DATA_FILE: /Users/abdulmateen/rec_sys/data/processed.csv, MODEL_FILE: /Users/abdulmateen/rec_sys/models/recommender_model.pkl
+[ 2026-01-02 22:58:58 ] 214 app - INFO - User cleared recommendation history
+[ 2026-01-02 22:58:58 ] 246 app - INFO - Displaying 5 formatted recommendations
+[ 2026-01-02 22:59:03 ] 33 app - INFO - Initializing app with DATA_FILE: /Users/abdulmateen/rec_sys/data/processed.csv, MODEL_FILE: /Users/abdulmateen/rec_sys/models/recommender_model.pkl
+[ 2026-01-02 22:59:03 ] 246 app - INFO - Displaying 5 formatted recommendations
+[ 2026-01-02 22:59:04 ] 33 app - INFO - Initializing app with DATA_FILE: /Users/abdulmateen/rec_sys/data/processed.csv, MODEL_FILE: /Users/abdulmateen/rec_sys/models/recommender_model.pkl
+[ 2026-01-02 22:59:04 ] 246 app - INFO - Displaying 5 formatted recommendations
+[ 2026-01-02 22:59:08 ] 33 app - INFO - Initializing app with DATA_FILE: /Users/abdulmateen/rec_sys/data/processed.csv, MODEL_FILE: /Users/abdulmateen/rec_sys/models/recommender_model.pkl
+[ 2026-01-02 22:59:08 ] 246 app - INFO - Displaying 5 formatted recommendations
+[ 2026-01-02 22:59:11 ] 33 app - INFO - Initializing app with DATA_FILE: /Users/abdulmateen/rec_sys/data/processed.csv, MODEL_FILE: /Users/abdulmateen/rec_sys/models/recommender_model.pkl
+[ 2026-01-02 22:59:11 ] 202 app - INFO - User manually refreshed recommendations for: OnePlus 10R 5G (Forest Green, 12GB RAM, 256GB Storage, 80W SuperVOOC)
+[ 2026-01-02 22:59:11 ] 174 app - INFO - Generated 2 recommendations for OnePlus 10R 5G (Forest Green, 12GB RAM, 256GB Storage, 80W SuperVOOC)
+[ 2026-01-02 22:59:11 ] 246 app - INFO - Displaying 2 formatted recommendations
+[ 2026-01-02 22:59:18 ] 33 app - INFO - Initializing app with DATA_FILE: /Users/abdulmateen/rec_sys/data/processed.csv, MODEL_FILE: /Users/abdulmateen/rec_sys/models/recommender_model.pkl
+[ 2026-01-02 22:59:18 ] 196 app - INFO - Auto-generating recommendations for: boAt Type C A325 Tangle-free, Sturdy Type C Cable with 3A Rapid Charging & 480mbps Data Transmission(Black)
+[ 2026-01-02 22:59:18 ] 174 app - INFO - Generated 2 recommendations for boAt Type C A325 Tangle-free, Sturdy Type C Cable with 3A Rapid Charging & 480mbps Data Transmission(Black)
+[ 2026-01-02 22:59:18 ] 246 app - INFO - Displaying 2 formatted recommendations
+[ 2026-01-02 22:59:47 ] 33 app - INFO - Initializing app with DATA_FILE: /Users/abdulmateen/rec_sys/data/processed.csv, MODEL_FILE: /Users/abdulmateen/rec_sys/models/recommender_model.pkl
+[ 2026-01-02 22:59:47 ] 246 app - INFO - Displaying 2 formatted recommendations
+[ 2026-01-02 22:59:52 ] 33 app - INFO - Initializing app with DATA_FILE: /Users/abdulmateen/rec_sys/data/processed.csv, MODEL_FILE: /Users/abdulmateen/rec_sys/models/recommender_model.pkl
+[ 2026-01-02 22:59:52 ] 202 app - INFO - User manually refreshed recommendations for: boAt Type C A325 Tangle-free, Sturdy Type C Cable with 3A Rapid Charging & 480mbps Data Transmission(Black)
+[ 2026-01-02 22:59:52 ] 174 app - INFO - Generated 10 recommendations for boAt Type C A325 Tangle-free, Sturdy Type C Cable with 3A Rapid Charging & 480mbps Data Transmission(Black)
+[ 2026-01-02 22:59:52 ] 246 app - INFO - Displaying 10 formatted recommendations
+[ 2026-01-02 23:00:00 ] 33 app - INFO - Initializing app with DATA_FILE: /Users/abdulmateen/rec_sys/data/processed.csv, MODEL_FILE: /Users/abdulmateen/rec_sys/models/recommender_model.pkl
+[ 2026-01-02 23:00:00 ] 246 app - INFO - Displaying 10 formatted recommendations
+[ 2026-01-02 23:00:00 ] 273 app - INFO - User clicked to explore: Portronics Konnect A Type-C Cable with 3A Rapid Charging & 480mbps Data Transmission,1 M Cord Length(White)
+[ 2026-01-02 23:00:00 ] 33 app - INFO - Initializing app with DATA_FILE: /Users/abdulmateen/rec_sys/data/processed.csv, MODEL_FILE: /Users/abdulmateen/rec_sys/models/recommender_model.pkl
+[ 2026-01-02 23:00:00 ] 116 app - INFO - Product clicked from recommendations: Portronics Konnect A Type-C Cable with 3A Rapid Charging & 480mbps Data Transmission,1 M Cord Length(White)
+[ 2026-01-02 23:00:00 ] 196 app - INFO - Auto-generating recommendations for: Portronics Konnect A Type-C Cable with 3A Rapid Charging & 480mbps Data Transmission,1 M Cord Length(White)
+[ 2026-01-02 23:00:00 ] 174 app - INFO - Generated 10 recommendations for Portronics Konnect A Type-C Cable with 3A Rapid Charging & 480mbps Data Transmission,1 M Cord Length(White)
+[ 2026-01-02 23:00:00 ] 246 app - INFO - Displaying 10 formatted recommendations

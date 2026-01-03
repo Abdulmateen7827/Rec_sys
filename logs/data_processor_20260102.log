@@ -1,0 +1,19 @@
+[ 2026-01-02 22:41:47 ] 19 data_processor - INFO - Checking for required NLTK data
+[ 2026-01-02 22:41:48 ] 24 data_processor - INFO - Downloading NLTK punkt tokenizer
+[ 2026-01-02 22:43:36 ] 26 data_processor - INFO - NLTK punkt tokenizer downloaded
+[ 2026-01-02 22:43:36 ] 156 data_processor - INFO - Starting preprocessing pipeline for data/processed.csv
+[ 2026-01-02 22:43:36 ] 49 data_processor - INFO - Loading data from data/processed.csv
+[ 2026-01-02 22:43:36 ] 52 data_processor - INFO - Data loaded successfully. Shape: (9600, 8), Columns: ['Unnamed: 0', 'name', 'image', 'link', 'ratings', 'no_of_ratings', 'discount_price', 'actual_price']
+[ 2026-01-02 22:43:36 ] 119 data_processor - INFO - Organizing keywords for dataframe with shape (9600, 8)
+[ 2026-01-02 22:43:38 ] 141 data_processor - INFO - Keywords organized. 9600/9600 products have non-empty tags
+[ 2026-01-02 22:43:38 ] 163 data_processor - INFO - Preprocessing pipeline completed successfully
+[ 2026-01-02 22:45:43 ] 19 data_processor - INFO - Checking for required NLTK data
+[ 2026-01-02 22:45:44 ] 156 data_processor - INFO - Starting preprocessing pipeline for /Users/abdulmateen/rec_sys/data/processed.csv
+[ 2026-01-02 22:45:44 ] 49 data_processor - INFO - Loading data from /Users/abdulmateen/rec_sys/data/processed.csv
+[ 2026-01-02 22:45:44 ] 52 data_processor - INFO - Data loaded successfully. Shape: (9600, 8), Columns: ['Unnamed: 0', 'name', 'image', 'link', 'ratings', 'no_of_ratings', 'discount_price', 'actual_price']
+[ 2026-01-02 22:45:44 ] 119 data_processor - INFO - Organizing keywords for dataframe with shape (9600, 8)
+[ 2026-01-02 22:45:46 ] 141 data_processor - INFO - Keywords organized. 9600/9600 products have non-empty tags
+[ 2026-01-02 22:45:46 ] 163 data_processor - INFO - Preprocessing pipeline completed successfully
+[ 2026-01-02 22:47:29 ] 19 data_processor - INFO - Checking for required NLTK data
+[ 2026-01-02 22:55:47 ] 19 data_processor - INFO - Checking for required NLTK data
+[ 2026-01-02 22:57:45 ] 19 data_processor - INFO - Checking for required NLTK data
